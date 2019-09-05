@@ -1,0 +1,25 @@
+#pagebackground {
+    background-color:antiquewhite;
+}
+h1{
+    text-align: center;
+    font-size: 55px;
+    color:navy;
+}
+#address {
+    float: inline-end;
+    width: 35%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.data{
+    font-family: 'Times New Roman', Times, serif;
+}
+table, th, td {
+    border: 1px solid brown;
+    border-collapse: collapse;
+    padding: 12px;
+}
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: maroon;
+}
